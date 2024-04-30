@@ -1,4 +1,4 @@
-# WomenSafetyApp
+#HER SHIELD APP
 this is an app monitoring women safety with the followig features:-
 1. User Registration<br> 
 2. Admin Panel<br>   
@@ -12,5 +12,4 @@ this is an app monitoring women safety with the followig features:-
 10. Help on the way notification<br> 
 11. Notification to local police, NGO<br> 
 12. Emergency Contact List<br> 
-13. Travel log <br> 
-14. Unique Verification Code<br> 
+
